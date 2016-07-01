@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">手势锁Demo</string>
+    <string name="LockInputPassword">请输入手势密码</string>
+    <string name="LockInputPasswordAgain">再次输入手势密码</string>
+    <string name="LockPasswordError">图案错误</string>
+    <string name="LockPasswordOk">图案正确</string>
+    <string name="LockResetBtn">重置密码</string>
+    <string name="appExit">再按一次退出程序</string>
+    <string name="appMainName">这是主页面，可以在这里添加内容。</string>
+</resources>
